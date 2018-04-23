@@ -33,7 +33,7 @@ public class Client  extends JFrame implements ActionListener {
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         
-        String hostName = "234.235.236.237";  //localhost
+        String hostName = "127.0.0.1";  //localhost
         int portNumber = 12540;
  
         try{
